@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo title=false %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <title>{{page.title}}</title>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HJT9SCFDRK"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-HJT9SCFDRK');
+    </script>
+  </head>
+  <body>
+    <div class="wrapper{% if page.layout == 'post' %} post{% endif %}">
+      {% if page.layout == 'default' %}
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">Theo Lebrun</a></h1>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        <img id="logo" src="{{site.logo | relative_url}}" alt="Logo" />
+
+        <p class="view" style="text-align: center">
+          <a href="https://github.com/Falydoor"><img class="logo" src="github-logo.png" alt="github" /></a>
+          <a href="https://www.linkedin.com/in/lebruntheo"><img class="logo" src="linkedin-logo.png" alt="linkedin" /></a>
+          <a href="mailto:mib.ftw@gmail.com"><img class="logo" src="gmail-logo.png" alt="gmail" /></a>
+        </p>
+
+        <p class="view" style="text-align: center">
+          <a href="https://www.youracclaim.com/badges/a7f7e4f3-f653-434f-bfbb-5a36293bf3e2/public_url"><img class="aws" src="aws-dev.png" alt="aws-dev" /></a>
+          <a href="https://www.youracclaim.com/badges/f5cb6f2d-7061-4dd9-9187-eaaf493bc34c/public_url"><img class="aws" src="aws-sa.png" alt="aws-sa" /></a>
+          <a href="https://credentials.databricks.com/6f63ed6d-81a6-4504-9b9a-43c265a12158"><img class="aws" src="databricks-sa.png" alt="databricks-sa" /></a>
+        </p>
+      </header>
+      {% endif %}
+      <section>
+
+      {{ content }}
+
+      </section>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
