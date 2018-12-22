@@ -15,6 +15,20 @@ a:hover{
     border-radius: 50%;
 }
 
+.wrapper {
+    width: 1000px;
+}
+
+.wrapper > header {
+    float: right;
+    position: static;
+}
+
+.wrapper > section {
+    float: left;
+    width: 600px;
+}
+
 .post {
     width: 900px;
 }

@@ -3,19 +3,26 @@ layout: default
 title: "Theo Lebrun - Blog"
 ---
 
-## Welcome to my personal website
+## Welcome
 
-I am a Software Engineer who is very into programming and computer science as I was pretty young when I had my first computer. Resolving problems and finding the best way to solve them in a defined time are my main goals. I'm currently living the life in the big Apple!
+My name is Theo Lebrun, I'm a Software Engineer with 5+ years of experience and open-source lover. Beside IT, I'm a sports fan and traveler.
+
+Currently living the life in the Big Apple, I enjoy resolving daily challenges at my work and sharing stories with my coworkers during happy hour.
+
+My skills are mainly focused on the Java and Spring ecosystem. I have a lot of experience in the Cloud technologies, especially with AWS where I have two certifications.
+
+I have a very good knowledge of [JHipster](https://www.jhipster.tech/) and I can provide expertise about it. I've been using JHipster for more than 3 years and [contributed](https://github.com/jhipster/generator-jhipster/commits?author=Falydoor) to the project.
 
 ## Blog posts
 
-### 2018
+{% for post in site.posts %}
+- {{ post.date | date: "%Y-%m-%d" }} - [{{ post.title }}]({{ post.url }})
+{% endfor %}
 
-- [NYC subway data with Kafka Streams and JHipster (part 2 of 2)](2018/11/07/nyc-subway-data-with-kafka-streams-and-jhipster-part-2.html)
-- [NYC subway data with Kafka Streams and JHipster (part 1 of 2)](2018/11/06/nyc-subway-data-with-kafka-streams-and-jhipster-part-1.html)
-- [Hipslacker, a slack bot for JHipster](2018/08/06/hipslacker-a-slack-bot-for-jhipster.html)
-- [JHipster 5 is out](2018/06/26/jhipster-5-is-out.html)
-- [How to efficiently use JHipster in your company](2018/04/09/how-to-efficiently-use-jhipster-in-your-company.html)
+## Talks
+
+- JHipster NYC
+	- 2018-08-21 - [Brace yourself, JHipster 5 is out](https://www.meetup.com/JHipster-NYC/events/251106398/)
 
 ## Cool projects I maintain
 
