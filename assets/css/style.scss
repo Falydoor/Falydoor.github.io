@@ -1,0 +1,41 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h1 {
+    text-align: center;
+}
+
+a:hover{
+    font-weight: normal;
+}
+
+#logo {
+    border-radius: 50%;
+}
+
+.post {
+    width: 900px;
+}
+
+.post > section {
+    width: initial;
+}
+
+.post h1 {
+    text-align: left;
+}
+
+.post .highlighter-rouge {
+	width: 900px;
+}
+
+.logo {
+    height: 15px;
+    vertical-align: middle;
+}
+
+.aws {
+    height: 125px;
+}
