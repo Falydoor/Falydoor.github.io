@@ -5,13 +5,13 @@ title: "Theo Lebrun - Blog"
 
 ## Welcome
 
-My name is Theo Lebrun, I'm a Software Engineer with 5+ years of experience and open-source lover. Beside IT, I'm a sports fan and traveler.
+My name is Theo Lebrun, I am a Software Engineer with 5+ years of experience and an open-source lover. Besides IT, I am a sports fan and traveler.
 
-Currently living the life in the Big Apple, I enjoy resolving daily challenges at my work and sharing stories with my coworkers during happy hour.
+Currently living life in the Big Apple, I enjoy resolving daily challenges at my work and sharing stories with my coworkers during happy hour.
 
-My skills are mainly focused on the Java and Spring ecosystem. I have a lot of experience in the Cloud technologies, especially with AWS since I own two certifications.
+My skills are mainly focused on the Java and Spring ecosystems. I have a lot of experience in the Cloud technologies, especially with AWS since I have two certifications.
 
-I have a very good knowledge of [JHipster](https://www.jhipster.tech/) and I can provide expertise about it. I've been using JHipster for more than 3 years and [contributed](https://github.com/jhipster/generator-jhipster/commits?author=Falydoor) to the project.
+I have a very good knowledge of [JHipster](https://www.jhipster.tech/) and I can provide expertise about it. I have been using JHipster for more than 3 years and [contributed](https://github.com/jhipster/generator-jhipster/commits?author=Falydoor) to the project.
 
 ## Blog posts
 
