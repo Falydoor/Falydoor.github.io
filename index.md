@@ -22,6 +22,7 @@ I have a very good knowledge of [JHipster](https://www.jhipster.tech/) and I can
 ## Talks
 
 - JHipster NYC
+	- 2019-02-22 - [Workshop - Introduction to Vue.js with JHipster](https://www.meetup.com/JHipster-NYC/events/258529587/)
 	- 2018-08-21 - [Brace yourself, JHipster 5 is out](https://www.meetup.com/JHipster-NYC/events/251106398/)
 
 ## Cool projects I maintain
