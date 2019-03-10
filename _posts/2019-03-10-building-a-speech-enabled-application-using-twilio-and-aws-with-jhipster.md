@@ -5,7 +5,7 @@ tags:
 - Twilio
 - JHipster
 date: 2019-03-10T14:50:55.000Z
-title: "Building a Speech-Enabled application using Twilio and AWS with JHipster"
+title: "Building a Speech-Enabled app using Twilio and AWS with JHipster"
 ---
 
 The popularity of smart home devices like Amazon Echo or Google Home has increased a lot over the past years. All this traction improved the text to speech experience to a point where it is difficult to tell that you are actually not talking to a real person. Not only does this happen in English, but also other supported languages such as French or Japanese, thus exacerbating the problem.
