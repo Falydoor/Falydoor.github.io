@@ -5,7 +5,7 @@ title: "Theo Lebrun - Blog"
 
 ## Welcome
 
-I am a Data Engineer with 5+ years of experience and an open-source lover. Besides IT, I am a sports fan and traveler.
+I am a Data Engineer with 7+ years of experience and an open-source lover. Besides IT, I am a sports fan and traveler.
 
 Currently living life in the Big Apple, I enjoy resolving daily challenges at my work while enjoying the New-York active life.
 
