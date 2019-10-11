@@ -5,11 +5,11 @@ title: "Theo Lebrun - Blog"
 
 ## Welcome
 
-I am a Software Engineer with 5+ years of experience and an open-source lover. Besides IT, I am a sports fan and traveler.
+I am a Data Engineer with 5+ years of experience and an open-source lover. Besides IT, I am a sports fan and traveler.
 
 Currently living life in the Big Apple, I enjoy resolving daily challenges at my work while enjoying the New-York active life.
 
-My skills are mainly focused on the Java and Spring ecosystems since I have been using those technologies for more than five years. I also have a lot of experience in the Cloud technologies, especially with AWS since I have two certifications.
+My skills are primarily focused on Data because I have good expertise in technologies like Kafka, EMR and Spark. I also have a big Java and Spring background since I have been using those technologies for more than five years. Cloud technologies are part of my main skills, especially AWS since I have two certifications.
 
 I have a very good knowledge of [JHipster](https://www.jhipster.tech/) and I can provide expertise about it. I have been using JHipster for more than 3 years and [contributed](https://github.com/jhipster/generator-jhipster/commits?author=Falydoor) to the project.
 
