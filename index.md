@@ -7,7 +7,7 @@ title: "Theo Lebrun - Blog"
 
 I am a Data Engineer with 7+ years of experience and an open-source lover. Besides IT, I am a sports fan and traveler.
 
-Currently living life in the Big Apple, I enjoy resolving daily challenges at my work while enjoying the New-York active life.
+Currently living the life in NYC, I enjoy resolving daily challenges at my work while enjoying the New-York active life.
 
 My skills are primarily focused on Data because I have good expertise in technologies like Kafka, EMR and Spark. I also have a big Java and Spring background since I have been using those technologies for more than five years. Cloud technologies are part of my main skills, especially AWS since I have two certifications.
 
