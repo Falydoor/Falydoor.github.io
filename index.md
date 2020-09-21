@@ -11,7 +11,7 @@ Currently living the life in NYC, I enjoy resolving daily challenges at my work 
 
 My skills are primarily focused on Data because I have good expertise in technologies like Kafka, EMR and Spark. I also have a big Java and Spring background since I have been using those technologies for more than five years. Cloud technologies are part of my main skills, especially AWS since I have two certifications.
 
-I have a very good knowledge of [JHipster](https://www.jhipster.tech/) and I can provide expertise about it. I have been using JHipster for more than 3 years and [contributed](https://github.com/jhipster/generator-jhipster/commits?author=Falydoor) to the project.
+I have a very good knowledge of [JHipster](https://www.jhipster.tech/) and I can provide expertise about it. I have been using JHipster for more than 5 years and [contributed](https://github.com/jhipster/generator-jhipster/pulls?q=is%3Apr+author%3AFalydoor+is%3Aclosed) to the project.
 
 ## Blog posts
 
@@ -20,6 +20,12 @@ I have a very good knowledge of [JHipster](https://www.jhipster.tech/) and I can
 {% endfor %}
 
 ## Talks
+
+- Datastax Webinar
+	- 2020-06-25 - [Successful scale-out data approach for Financial Services with Apache Cassandra™](https://www.datastax.com/resources/webinar/successful-scale-out-data-approach-financial-services-apache-cassandratm) [Youtube Video](https://www.youtube.com/watch?v=mX2CYJVW9So&t=1040)
+
+- VueDC
+	- 2020-05-13 - [Creating a Modern Web App Using Vue.js and Spring Boot with JHipster](https://www.meetup.com/Vue-DC/events/269973905/) [Youtube Video](https://www.youtube.com/watch?v=B5QgxVwnEws)
 
 - JHipster NYC
 	- 2019-02-22 - [Workshop - Introduction to Vue.js with JHipster](https://www.meetup.com/JHipster-NYC/events/258529587/)
