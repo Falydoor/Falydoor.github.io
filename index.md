@@ -13,12 +13,6 @@ My skills are primarily focused on Data because I have good expertise in technol
 
 I have a very good knowledge of [JHipster](https://www.jhipster.tech/) and I can provide expertise about it. I have been using JHipster for more than 5 years and [contributed](https://github.com/jhipster/generator-jhipster/pulls?q=is%3Apr+author%3AFalydoor+is%3Aclosed) to the project.
 
-## Blog posts
-
-{% for post in site.posts %}
-- {{ post.date | date: "%Y-%m-%d" }} - [{{ post.title }}]({{ post.url }})
-{% endfor %}
-
 ## Talks
 
 - Datastax Webinar
@@ -30,6 +24,12 @@ I have a very good knowledge of [JHipster](https://www.jhipster.tech/) and I can
 - JHipster NYC
 	- 2019-02-22 - [Workshop - Introduction to Vue.js with JHipster](https://www.meetup.com/JHipster-NYC/events/258529587/)
 	- 2018-08-21 - [Brace yourself, JHipster 5 is out](https://www.meetup.com/JHipster-NYC/events/251106398/)
+
+## Blog posts
+
+{% for post in site.posts %}
+- {{ post.date | date: "%Y-%m-%d" }} - [{{ post.title }}]({{ post.url }})
+{% endfor %}
 
 ## Cool projects I maintain
 
