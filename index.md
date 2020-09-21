@@ -16,10 +16,10 @@ I have a very good knowledge of [JHipster](https://www.jhipster.tech/) and I can
 ## Talks
 
 - Datastax Webinar
-	- 2020-06-25 - [Successful scale-out data approach for Financial Services with Apache Cassandra™](https://www.datastax.com/resources/webinar/successful-scale-out-data-approach-financial-services-apache-cassandratm), ([Video](https://www.youtube.com/watch?v=mX2CYJVW9So&t=1040))
+	- 2020-06-25 - [Successful scale-out data approach for Financial Services with Apache Cassandra™](https://www.datastax.com/resources/webinar/successful-scale-out-data-approach-financial-services-apache-cassandratm) ([Video](https://www.youtube.com/watch?v=mX2CYJVW9So&t=1040))
 
 - VueDC
-	- 2020-05-13 - [Creating a Modern Web App Using Vue.js and Spring Boot with JHipster](https://www.meetup.com/Vue-DC/events/269973905/), ([Video](https://www.youtube.com/watch?v=B5QgxVwnEws))
+	- 2020-05-13 - [Creating a Modern Web App Using Vue.js and Spring Boot with JHipster](https://www.meetup.com/Vue-DC/events/269973905/) ([Video](https://www.youtube.com/watch?v=B5QgxVwnEws))
 
 - JHipster NYC
 	- 2019-02-22 - [Workshop - Introduction to Vue.js with JHipster](https://www.meetup.com/JHipster-NYC/events/258529587/)
