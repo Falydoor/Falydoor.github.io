@@ -7,7 +7,7 @@ tags:
 - AWS LAMBDA
 - AWS CDK
 - Python
-date: 2021-03-25T20:56:21.000Z
+date: 2021-04-08T20:56:21.000Z
 title: "Sync two S3 buckets using CDK and a Lamdba layer containing the AWS CLI"
 ---
 
