@@ -5,7 +5,7 @@ title: "Theo Lebrun - Blog"
 
 ## Welcome
 
-I am a Cloud Solution Architect and Technical Manager with 7+ years of experience and an open-source lover. Besides IT, I am a sports fan and traveler.
+I am a Data Engineer and Technical Manager with 7+ years of experience and an open-source lover. Besides IT, I am a sports fan and traveler.
 
 Currently living the life in NYC, I enjoy resolving daily challenges at my work while enjoying the New-York active life.
 
