@@ -15,21 +15,17 @@ I have a very good knowledge of [JHipster](https://www.jhipster.tech/) and I can
 
 ## Talks
 
-- DevNexus
-	- 2023-04-06 - [Creating a Modern Web App Using Spring Boot and Vue.js with JHipster](https://devnexus.com/presentations/creating-a-modern-web-app-using-spring-boot-and-vue-js-with-jhipster)
+- **2023-04-06** - DevNexus - [Creating a Modern Web App Using Spring Boot and Vue.js with JHipster](https://devnexus.com/presentations/creating-a-modern-web-app-using-spring-boot-and-vue-js-with-jhipster)
 
-- RVA Tech DataSummit
-	- 2023-03-30 - [Easily transform data in your warehouse using DBT (Data Build Tool)](https://rvatech.com/rvatech-events/2023-rvatech-data-summit/)
+- **2023-03-30** - RVA Tech DataSummit - [Easily transform data in your warehouse using DBT (Data Build Tool)](https://rvatech.com/rvatech-events/2023-rvatech-data-summit/)
 
-- Datastax Webinar
-	- 2020-06-25 - [Successful scale-out data approach for Financial Services with Apache Cassandra™](https://www.datastax.com/resources/webinar/successful-scale-out-data-approach-financial-services-apache-cassandratm) ([Video](https://www.youtube.com/watch?v=mX2CYJVW9So&t=1040))
+- **2020-06-25** - Datastax Webinar - [Successful scale-out data approach for Financial Services with Apache Cassandra™](https://www.datastax.com/resources/webinar/successful-scale-out-data-approach-financial-services-apache-cassandratm) ([Video](https://www.youtube.com/watch?v=mX2CYJVW9So&t=1040))
 
-- VueDC
-	- 2020-05-13 - [Creating a Modern Web App Using Vue.js and Spring Boot with JHipster](https://www.meetup.com/Vue-DC/events/269973905/) ([Video](https://www.youtube.com/watch?v=B5QgxVwnEws))
+- **2020-05-13** - VueDC - [Creating a Modern Web App Using Vue.js and Spring Boot with JHipster](https://www.meetup.com/Vue-DC/events/269973905/) ([Video](https://www.youtube.com/watch?v=B5QgxVwnEws))
 
-- JHipster NYC
-	- 2019-02-22 - [Workshop - Introduction to Vue.js with JHipster](https://www.meetup.com/JHipster-NYC/events/258529587/)
-	- 2018-08-21 - [Brace yourself, JHipster 5 is out](https://www.meetup.com/JHipster-NYC/events/251106398/)
+- **2019-02-22** - JHipster NYC Meetup - [Workshop - Introduction to Vue.js with JHipster](https://www.meetup.com/JHipster-NYC/events/258529587/)
+
+- **2018-08-21** - JHipster NYC Meetup - [Brace yourself, JHipster 5 is out](https://www.meetup.com/JHipster-NYC/events/251106398/)
 
 ## Blog posts
 
