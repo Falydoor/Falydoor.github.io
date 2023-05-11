@@ -15,6 +15,12 @@ I have a very good knowledge of [JHipster](https://www.jhipster.tech/) and I can
 
 ## Talks
 
+- DevNexus
+	- 2023-04-06 - [Creating a Modern Web App Using Spring Boot and Vue.js with JHipster](https://devnexus.com/presentations/creating-a-modern-web-app-using-spring-boot-and-vue-js-with-jhipster)
+
+- RVA Tech DataSummit
+	- 2023-03-30 - [Easily transform data in your warehouse using DBT (Data Build Tool)](https://rvatech.com/rvatech-events/2023-rvatech-data-summit/)
+
 - Datastax Webinar
 	- 2020-06-25 - [Successful scale-out data approach for Financial Services with Apache Cassandra™](https://www.datastax.com/resources/webinar/successful-scale-out-data-approach-financial-services-apache-cassandratm) ([Video](https://www.youtube.com/watch?v=mX2CYJVW9So&t=1040))
 
