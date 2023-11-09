@@ -5,15 +5,15 @@ title: "Theo Lebrun - Blog"
 
 ## Welcome
 
-I am a Data Engineer and Technical Manager with 7+ years of experience and an open-source lover. Besides IT, I am a sports fan and traveler.
+I am is a seasoned Data Engineer and Technology Consultant with a vast experience in cloud computing, databases, and software development. With expertise in a range of tools and technologies including AWS, Kafka, Databricks, and Python, I have helped numerous clients optimize their data pipelines meeting and exceeding their goals.
 
-Currently living the life in NYC, I enjoy resolving daily challenges at my work while enjoying the New-York active life.
+My technical expertise are matched by my passion for sharing my knowledge with others. I have authored multiple blog posts covering and breaking down technical topics such as high-scaled streaming development with Kafka or Databricks Tips and Tricks. I have also presented in multiple conferences such as DevNexus, Connect.Tech and RVATech Data Summit.
 
-My skills are primarily focused on Data because I have good expertise in technologies like Kafka, EMR and Spark. I also have a big Java and Spring background since I have been using those technologies for more than five years. Cloud technologies are part of my main skills, especially AWS since I have two certifications.
-
-I have a very good knowledge of [JHipster](https://www.jhipster.tech/) and I can provide expertise about it. I have been using JHipster for more than 5 years and [contributed](https://github.com/jhipster/generator-jhipster/pulls?q=is%3Apr+author%3AFalydoor+is%3Aclosed) to the project.
+I have a very good knowledge of [JHipster](https://www.jhipster.tech/) and I can provide expertise about it. I have been using JHipster for more than 5 years and also [contributed](https://github.com/jhipster/generator-jhipster/pulls?q=is%3Apr+author%3AFalydoor+is%3Aclosed) to the project.
 
 ## Talks
+
+- **2023-10-26** - Connect.Tech - [Creating a Modern Web App Using Spring Boot and Vue.js with JHipster](https://2023.connect.tech/session/500852)
 
 - **2023-04-06** - DevNexus - [Creating a Modern Web App Using Spring Boot and Vue.js with JHipster](https://devnexus.com/presentations/creating-a-modern-web-app-using-spring-boot-and-vue-js-with-jhipster)
 
