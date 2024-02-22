@@ -5,7 +5,7 @@ title: "Theo Lebrun - Blog"
 
 ## Welcome
 
-I am is a seasoned Data Engineer and Technology Consultant with a vast experience in cloud computing, databases, and software development. With expertise in a range of tools and technologies including AWS, Kafka, Databricks, and Python, I have helped numerous clients optimize their data pipelines meeting and exceeding their goals.
+I am a seasoned Data Engineer and Technology Consultant with a vast experience in cloud computing, databases, and software development. With expertise in a range of tools and technologies including AWS, Kafka, Databricks, and Python, I have helped numerous clients optimize their data pipelines meeting and exceeding their goals.
 
 My technical expertise are matched by my passion for sharing my knowledge with others. I have authored multiple blog posts covering and breaking down technical topics such as high-scaled streaming development with Kafka or Databricks Tips and Tricks. I have also presented in multiple conferences such as DevNexus, Connect.Tech and RVATech Data Summit.
 
