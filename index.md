@@ -13,6 +13,8 @@ I have a very good knowledge of [JHipster](https://www.jhipster.tech/) and I can
 
 ## Talks
 
+- **2024-03-09** - DataTune - [Build next generation Big Data applications with Delta Lake](https://www.datatuneconf.com/index.html)
+
 - **2024-01-25** - RVA Data Engineering - [Build next generation Big Data applications with Delta Lake](https://www.meetup.com/rva-data-engineering/events/298171697/) ([Video](https://www.youtube.com/watch?v=xbm8878P758))
 
 - **2023-10-26** - Connect.Tech - [Creating a Modern Web App Using Spring Boot and Vue.js with JHipster](https://2023.connect.tech/session/500852) ([Video](https://www.youtube.com/watch?v=LgEKth5jR58))
