@@ -13,6 +13,8 @@ I have a very good knowledge of [JHipster](https://www.jhipster.tech/) and I can
 
 ## Talks
 
+- **2024-11-21** - RVA Tech Code & Cloud - [Build next generation Big Data applications with Delta Lake](https://rvatech.com/rvatech-events/2024-rvatech-code-cloud-conference/)
+
 - **2024-10-18** - AWS Community Day DMV - [Craft your own Generative AI Chatbot with Amazon Bedrock](https://www.awsdmvusersgroup.org/)
 
 - **2024-09-26** - JConf 2024 - [Build next generation Big Data applications with Delta Lake](https://2024.jconf.dev/session/590207)
