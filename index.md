@@ -13,7 +13,7 @@ I have a very good knowledge of [JHipster](https://www.jhipster.tech/) and I can
 
 ## Talks
 
-- **2025-05-08** - AWS DMV User Group - [Craft your own Generative AI Chatbot with Amazon Bedrock](https://devnexus.com/presentations/craft-your-own-generative-ai-chatbot-with-amazon-bedrock)
+- **2025-05-08** - AWS DMV User Group - [Craft your own Generative AI Chatbot with Amazon Bedrock](https://www.meetup.com/amazon-web-services-dmv/events/306702946/)
 
 - **2025-03-06** - DevNexus - [Craft your own Generative AI Chatbot with Amazon Bedrock](https://devnexus.com/presentations/craft-your-own-generative-ai-chatbot-with-amazon-bedrock) ([Video](https://www.youtube.com/watch?v=aD0oPK-qvg0))
 
